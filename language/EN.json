@@ -459,7 +459,7 @@
         "sticker": {
             "STICKER_DESC": "Make stickers to your images. Reply to an image.",
             "NEED_REPLY": "*Please reply an image!*",
-            "DOWNLOADING": "\n```🔄 Downloading media and making sticker...```\n",
+            "DOWNLOADING": "\n```جاري تحويل الستيكر...```\n",
             "ANI_STICK": "Converts animated stickers to video.",
             "ANI_REPLY": "*Please reply an animated sticker*",
             "ANIMATE": "\n```🔄 Converting Animated Sticker To Video..```\n"
